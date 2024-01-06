@@ -3,6 +3,8 @@
 ## Introduction
 This software is developed to detect the eye gaze direction and utilize that information to control the mouse on a computer. The application is capable of recognizing actions such as up, down, left, right, center, and eye blink.
 
+![Eye Tracking Mouse Control](https://i.ibb.co/YjTLstK/Demo.png)
+
 ## Requirements
 - **Programming language:** Python
 - **Libraries:** OpenCV, Tensorflow, Mediapipe, Numpy, ...
